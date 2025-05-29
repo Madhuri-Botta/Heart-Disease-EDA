@@ -1,4 +1,4 @@
-# ❤️ Heart Disease EDA
+# Heart Disease EDA
 
 This project performs **Exploratory Data Analysis (EDA)** on a heart disease dataset to uncover patterns and distributions across key health indicators. The analysis is conducted using Python and popular data science libraries such as **Pandas**, **Seaborn**, and **Matplotlib**.
 
